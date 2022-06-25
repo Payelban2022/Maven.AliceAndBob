@@ -13,7 +13,7 @@ public class Main {
         name=name.toUpperCase();
         if (name.equals("ALICE")) {
             System.out.println("Hi Alice!");
-        } else if (name.equals("Bob")) {
+        } else if (name.equals("BOB")) {
             System.out.println("Hi Bob!");
         } else System.out.println("False");
 
